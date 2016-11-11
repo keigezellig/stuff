@@ -14,7 +14,8 @@ Python 3.x should be installed
 ## Usage
 - `cd` to the directory in which you cloned the repo
 - `./do stuff` if you want to do stuff
-- `./fix stuff` it you want to fix stuff
+- `./do fix` it you want to fix stuff
+
 
 
 
